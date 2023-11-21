@@ -1,0 +1,7 @@
+<launch>
+    <rosparam command="load" file="$(find interface_data_navigation)/param/prueba_navegacion.yaml"/>
+
+    <node pkg="interface_data_navigation" type="select_ubication_multiple_node" name="select_ubication" output="screen">
+    </node>
+
+</launch>

@@ -1,4 +1,4 @@
-# Selector de destino de navegación 
+# Selector de destino para navegación 2D
 
 Paquete ROS para suscribirse a distintos tópicos de tipo booleano, para luego publicar un destino en específico para la navegación de un robot. 
 
